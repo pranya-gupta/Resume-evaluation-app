@@ -1,0 +1,5 @@
+{
+  "name": "Resume AI Analyzer",
+  "description": "Analyze resumes for skills, experience, and suitability for specific roles with AI-powered suggestions.",
+  "requestFramePermissions": []
+}
